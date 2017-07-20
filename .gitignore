@@ -57,3 +57,4 @@ typings/
 # dotenv environment variables file
 .env
 
+Backup.postman_dump.json
